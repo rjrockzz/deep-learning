@@ -18,7 +18,7 @@
 * **Adam**, finally, adds bias-correction and momentum to RMSprop.
 * **RMSprop**, **Adadelta**, and **Adam** are very similar algorithms that do well in similar circumstances.
 * **Adam** might be the best overall choice.
-<br>*Note:*<br><br>
+<br><br>*Note:*<br>
 Interestingly, many recent papers use vanilla SGD without momentum and a simple learning rate annealing schedule. As has been shown, SGD usually achieves to find a minimum, but it might take significantly longer than with some of the optimizers, is much more reliant on a robust initialization and annealing schedule, and may get stuck in saddle points rather than local minima. Consequently, if you care about fast convergence and train a deep or complex neural network, you should choose one of the adaptive learning rate methods.
 
 
