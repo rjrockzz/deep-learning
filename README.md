@@ -3,8 +3,8 @@
 ### Gradient Descent Optimization Algorithms.
 <p align="left">
   <kbd>
-  <img width="450" height="400" src="https://ruder.io/content/images/2016/09/contours_evaluation_optimizers.gif">
-    <img width="450" height="400" src="https://ruder.io/content/images/2016/09/saddle_point_evaluation_optimizers.gif">
+  <img width="430" height="400" src="https://ruder.io/content/images/2016/09/contours_evaluation_optimizers.gif">
+    <img width="430" height="400" src="https://ruder.io/content/images/2016/09/saddle_point_evaluation_optimizers.gif">
   </kbd>  
 </p>
 * As we can see, the adaptive learning-rate methods, i.e. Adagrad, Adadelta, RMSprop, and Adam are most suitable and provide the best convergence for these scenarios.<br>
