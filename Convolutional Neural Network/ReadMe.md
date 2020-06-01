@@ -14,3 +14,13 @@
 ### 👁️ Convolutional filter:
 - One of the two actors in a convolutional operation. (The other actor is a slice of an input matrix.) A convolutional filter is a matrix having the same rank as the input matrix, but a smaller shape. For example, given a 28x28 input matrix, the filter could be any 2D matrix smaller than 28x28.<br><br>
 - In photographic manipulation, all the cells in a convolutional filter are typically set to a constant pattern of ones and zeroes. In machine learning, convolutional filters are typically seeded with random numbers and then the network trains the ideal values.<br>
+
+### 💥 Convolutional Layer:
+- Layer of a deep neural network in which a convolutional filter passes along an input matrix. 
+- The following animation shows a convolutional layer consisting of 9 convolutional operations involving the 5x5 input matrix. Notice that each convolutional operation works on a different 3x3 slice of the input matrix. The resulting 3x3 matrix (on the right) consists of the results of the 9 convolutional operations:<br>
+<p align="centre">
+  <kbd> 
+    <img width="430" height="300" src="https://developers.google.com/machine-learning/glossary/images/AnimatedConvolution.gif"> 
+    </kbd> 
+</p><br>
+
