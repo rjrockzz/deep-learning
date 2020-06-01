@@ -20,7 +20,7 @@
 - The following animation shows a convolutional layer consisting of 9 convolutional operations involving the 5x5 input matrix. Notice that each convolutional operation works on a different 3x3 slice of the input matrix. The resulting 3x3 matrix (on the right) consists of the results of the 9 convolutional operations:<br>
 <p align="center">
   <kbd> 
-    <img width="330" height="300" src="https://developers.google.com/machine-learning/glossary/images/AnimatedConvolution.gif"> 
+    <img width="350" height="200" src="https://developers.google.com/machine-learning/glossary/images/AnimatedConvolution.gif"> 
     </kbd> 
 </p><br>
 
