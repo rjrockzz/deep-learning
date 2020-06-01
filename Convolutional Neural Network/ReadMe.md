@@ -6,7 +6,7 @@
 - Without convolutions, a machine learning algorithm would have to learn a separate weight for every cell in a large tensor. For example, a machine learning algorithm training on 2K x 2K images would be forced to find 4M separate weights. Thanks to convolutions, a machine learning algorithm only has to find weights for every cell in the convolutional filter, dramatically reducing the memory needed to train the model. When the convolutional filter is applied, it is simply replicated across cells such that each is multiplied by the filter.<br>
 <p align="left">
   <kbd> 
-    <img width="430" height="400" src="https://media3.giphy.com/media/i4NjAwytgIRDW/200.gif"> 
-    <img width="430" height="400" src="https://i.pinimg.com/originals/95/b5/2d/95b52d82200da8ba0ed4615273da474e.gif"> 
+    <img width="430" height="300" src="https://media3.giphy.com/media/i4NjAwytgIRDW/200.gif"> 
+    <img width="430" height="300" src="https://i.pinimg.com/originals/95/b5/2d/95b52d82200da8ba0ed4615273da474e.gif"> 
 </kbd> 
 </p><br>
