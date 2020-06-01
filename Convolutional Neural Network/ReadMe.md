@@ -24,3 +24,11 @@
     </kbd> 
 </p><br>
 
+### 🏴‍☠️ Convolutional Neural Network:
+- A neural network in which at least one layer is a convolutional layer. 
+- A typical convolutional neural network consists of some combination of the following layers:
+
+  - Convolutional layers
+  - Pooling layers
+  - Dense layers<br>
+  
