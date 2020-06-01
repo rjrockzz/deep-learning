@@ -10,3 +10,6 @@
     <img width="430" height="300" src="https://i.pinimg.com/originals/95/b5/2d/95b52d82200da8ba0ed4615273da474e.gif"> 
 </kbd> 
 </p><br>
+### 👁️Convolutional filter:
+- One of the two actors in a convolutional operation. (The other actor is a slice of an input matrix.) A convolutional filter is a matrix having the same rank as the input matrix, but a smaller shape. For example, given a 28x28 input matrix, the filter could be any 2D matrix smaller than 28x28.<br><br>
+- In photographic manipulation, all the cells in a convolutional filter are typically set to a constant pattern of ones and zeroes. In machine learning, convolutional filters are typically seeded with random numbers and then the network trains the ideal values.<br>
