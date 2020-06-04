@@ -1,4 +1,4 @@
-# 🧠 :brain: Deep Learning<br>
+# :brain: Deep Learning<br>
 
   <br>
 <p align="center">
