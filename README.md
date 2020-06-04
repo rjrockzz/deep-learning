@@ -5,7 +5,7 @@
   <br>
 <p align="center">
   <kbd>
-  <img src="https://github.com/rjrockzz/deep-learning/blob/master/dl2.png">
+  <img src="https://github.com/rjrockzz/deep-learning/blob/master/Coursera/dl2.png">
   </kbd>  
 </p><br>
 
