@@ -7,6 +7,7 @@
   <img src="https://github.com/rjrockzz/deep-learning/blob/master/Coursera/dl.png">
   </kbd>  
 </p><br>
+
 * Another common technique we use in Machine Learning and Deep Learning is to normalize our data. It often leads to a better performance because gradient descent converges faster after normalization. Here, by normalization we mean changing x to $ \frac{x}{\| x\|} $ (dividing each row vector of x by its norm).
 
 For example, if $$x = 
