@@ -1,8 +1,8 @@
 ## :blossom: Contents<br>
 
-**This curated list has been made possible by researchers [Denny Britz](https://github.com/dennybritz), [Patrick](https://github.com/patrick-llgc/Learning-Deep-Learning) and [Terry Um](https://github.com/terryum).<br>Thanks for inspiring us :)**
+#### *_This curated list has been made possible by researchers [Denny Britz](https://github.com/dennybritz), [Patrick](https://github.com/patrick-llgc/Learning-Deep-Learning) and [Terry Um](https://github.com/terryum).<br>Thanks for inspiring us :)_*
 --------------
-Classic Models:
+Classic Models :
 * [LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 * [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [VGG - 16](https://arxiv.org/pdf/1409.1556)
