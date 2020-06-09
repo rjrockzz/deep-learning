@@ -1,4 +1,4 @@
-# :brain: Deep Learning<br>
+# ☆¸☆ Deep Learning<br>
 * Calculate current loss **(forward propagation)**
 * Calculate current gradient **(backward propagation)**
 * Update parameters **(gradient descent)**
