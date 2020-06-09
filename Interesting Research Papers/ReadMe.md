@@ -1,7 +1,13 @@
 ## :blossom: Contents<br>
 
 **This curated list has been made possible by researchers [Denny Britz](https://github.com/dennybritz), [Patrick](https://github.com/patrick-llgc/Learning-Deep-Learning) and [Terry Um](https://github.com/terryum).<br>Thanks for inspiring us :)**
-
+--------------
+Classic Models:
+* [LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+* [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+* [VGG - 16](https://arxiv.org/pdf/1409.1556)
+* [VGG - 19](https://arxiv.org/abs/1409.1556)
+-------------
 * [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
 * [Optimization / Training Techniques](#optimization--training-techniques)
 * [Unsupervised / Generative Models](#unsupervised--generative-models)
@@ -332,4 +338,4 @@
 - Linguistic Regularities in Continuous Space Word Representations (2013), T. Mikolov et al. [[pdf]](http://www.aclweb.org/anthology/N13-1#page=784)
 - Large scale distributed deep networks (2012), J. Dean et al. [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf)
 - A Fast and Accurate Dependency Parser using Neural Networks. Chen and Manning. [[pdf]](http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf)
-
+-------------------------------
