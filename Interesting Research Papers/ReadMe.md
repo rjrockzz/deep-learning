@@ -3,10 +3,17 @@
 #### *_This curated list has been made possible by researchers [Denny Britz](https://github.com/dennybritz), [Patrick](https://github.com/patrick-llgc/Learning-Deep-Learning) and [Terry Um](https://github.com/terryum).<br>Thanks for inspiring us :)_*
 --------------
 Classic Models :
-* [LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+* [LeNet - 5](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 * [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [VGG - 16](https://arxiv.org/pdf/1409.1556)
 * [VGG - 19](https://arxiv.org/abs/1409.1556)
+* [Inception v1](https://arxiv.org/abs/1409.4842)
+* [Inception v3](https://arxiv.org/abs/1512.00567)
+* [Inception v4](https://arxiv.org/abs/1602.07261)
+* [Xception](https://arxiv.org/abs/1610.02357)
+* [ResNet - 50](https://arxiv.org/pdf/1512.03385)
+* [Inception-ResNets](https://arxiv.org/abs/1602.07261)
+* [ResNxt - 50](https://arxiv.org/abs/1611.05431)
 -------------
 * [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
 * [Optimization / Training Techniques](#optimization--training-techniques)
