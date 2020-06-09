@@ -1,4 +1,6 @@
-## :blossom: Contents
+## :blossom: Contents<br>
+
+**This curated list has been made possible by researchers [Denny Britz](https://github.com/dennybritz),[Patrick](https://github.com/patrick-llgc/Learning-Deep-Learning) and [Terry Um](https://github.com/terryum).<br>Thanks for inspiring us :)**
 
 * [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
 * [Optimization / Training Techniques](#optimization--training-techniques)
