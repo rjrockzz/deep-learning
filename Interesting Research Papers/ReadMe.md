@@ -8,11 +8,11 @@
 * [VGG - 16](https://arxiv.org/pdf/1409.1556)
 * [VGG - 19](https://arxiv.org/abs/1409.1556)
 * [Inception v1](https://arxiv.org/abs/1409.4842)
+* [Inception-ResNets v2](https://arxiv.org/abs/1602.07261)
 * [Inception v3](https://arxiv.org/abs/1512.00567)
 * [Inception v4](https://arxiv.org/abs/1602.07261)
 * [Xception](https://arxiv.org/abs/1610.02357)
 * [ResNet - 50](https://arxiv.org/pdf/1512.03385)
-* [Inception-ResNets](https://arxiv.org/abs/1602.07261)
 * [ResNxt - 50](https://arxiv.org/abs/1611.05431)
 -------------
 ## :comet: Index<br>
