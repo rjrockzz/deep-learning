@@ -16,6 +16,12 @@
 * [ResNxt - 50](https://arxiv.org/abs/1611.05431)
 * [DenseNet](https://arxiv.org/abs/1608.06993)
 -------------
+**Object Detection Algorithms**
+* [R-CNN](https://arxiv.org/pdf/1311.2524.pdf)
+* [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
+* [Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf)
+* [YoLo](https://arxiv.org/pdf/1506.02640v5.pdf)
+-------------
 ## :comet: Index<br>
 * [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
 * [Optimization / Training Techniques](#optimization--training-techniques)
