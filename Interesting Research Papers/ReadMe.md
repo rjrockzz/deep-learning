@@ -1,6 +1,6 @@
 ## :blossom: Contents<br>
 
-#### *_This curated list has been made possible by researchers [Denny Britz](https://github.com/dennybritz), [Patrick](https://github.com/patrick-llgc/Learning-Deep-Learning) and [Terry Um](https://github.com/terryum).<br>Thanks for inspiring us **{◕ ◡ ◕}**_*
+#### *_This curated list has been made possible by researchers [Denny Britz](https://github.com/dennybritz), [Patrick](https://github.com/patrick-llgc/Learning-Deep-Learning) and [Terry Um](https://github.com/terryum).<br>Thanks for the inspiration **{◕ ◡ ◕}**_*
 --------------
 **Classic Models :**
 * [LeNet - 5](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
