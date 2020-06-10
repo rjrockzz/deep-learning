@@ -14,6 +14,7 @@
 * [Xception](https://arxiv.org/abs/1610.02357)
 * [ResNet - 50](https://arxiv.org/pdf/1512.03385)
 * [ResNxt - 50](https://arxiv.org/abs/1611.05431)
+* [DenseNet](https://arxiv.org/abs/1608.06993)
 -------------
 ## :comet: Index<br>
 * [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
